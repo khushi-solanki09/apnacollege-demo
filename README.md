@@ -1,4 +1,4 @@
 # apnacollege-demo
-author - khushi solanki
+author - khushi singh solanki
 <br>
 this is my first Git Repo.
